@@ -2,7 +2,7 @@
 title: "Untitled"
 author: "Jays"
 date: "2024-02-01"
-output: html_document
+output: rmdformats::readthedown
 ---
 
 ```{r setup, include=FALSE}
